@@ -1,2 +1,52 @@
-**/node_modules/ 
-**/**/**/**/**/**/**/app-debug.apk
+
+# Logs
+**/logs/
+**/*.log
+**/npm-debug.log*
+**/yarn-debug.log*
+**/yarn-error.log*
+
+# Dependências do node
+**/node_modules
+
+# Build Output
+**/android
+**/ios
+**/build
+**/*.xcworkspace
+**/*.xcodeproj
+
+# IDEs e editores
+**/.idea
+**/.vscode/
+
+# Sistema operacional
+**/.DS_Store
+**/Thumbs.db
+
+# Pasta do React Native Packager
+**/react-native-packager-cache
+**/react-native-cache
+
+# Arquivos do Metro
+**/.expo
+**/.expo-shared
+
+# Arquivos de configuração específicos do ambiente
+**/.env
+**/.env.local
+**/.env.*.local
+
+# Pastas específicas de depuração ou build
+**/debug
+**/tmp
+**/out
+**/dist
+
+# Testes
+**/coverage
+**/*.lcov
+
+# Outros arquivos e pastas
+**/Expo\ Client/
+**/*.expo*
