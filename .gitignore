@@ -10,11 +10,9 @@
 **/node_modules
 
 # Build Output
-**/android
-**/ios
-**/build
-**/*.xcworkspace
-**/*.xcodeproj
+**/android/app/build/
+**/ios/Pods/
+**/ios/build/
 
 # IDEs e editores
 **/.idea
